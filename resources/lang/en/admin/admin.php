@@ -1,0 +1,33 @@
+<?php
+
+return [
+	'settings' => 'Settings',
+	'homepage' => 'View Homepage',
+	'home' => 'Home',
+	'welcome' => 'Welcome',
+    'action' => 'Actions',
+    'back' => 'Back',
+    'created_at' => 'Created at',
+    'language' => 'Language',
+    'yes'       => 'Yes',
+    'no'        =>  'No',
+    'view_detail' => 'View Details',
+    'news_categories' => 'Article categories',
+    'news_items' => 'Article items',
+    'photo_albums' => 'Photo albums',
+    'photo_items' => 'Photo items',
+    'users' => 'Users',
+	'item_sync' =>'Item Sync',
+	'order_sync'=>'Order Sync',
+	'shipping_sync' =>'Shipping Sync',
+	'refunds_sync' =>'Refunds',
+	'last_started_at'=>'Last Started At:',
+	'view_details' =>'View Details',
+	'today_order'=>"Today's Orders:",
+	'today_shipped'=>"Today's Shipped:",
+	'status' =>'Status',
+	'inventory_sync' =>'Inventory sync',
+	'catalog_sync' =>'Catalog Sync',
+	'uploads_sync' =>'Status Check Of Uploads to Channel',
+	
+	];
